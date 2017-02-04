@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Wojtek
+Class-Path: lib/postgresql-9.2-1002-jdbc4.jar
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Main-Class: CarWashServerMaven.CarWashServerMaven.Server
+
